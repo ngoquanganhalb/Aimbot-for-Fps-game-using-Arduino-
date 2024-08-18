@@ -1,0 +1,9 @@
+pip install numpy==1.23.1
+pip install mss==7.0.1
+pip install Pillow==9.5.0
+pip install termcolor==2.2.0
+pip install pyserial==3.5
+pip install keyboard==0.13.5
+pip install opencv-python==4.7.0.72
+pip install pywin32==306
+pip install PyAutoGUI==0.9.53
